@@ -8,4 +8,4 @@
 <img width="1276" height="719" alt="image" src="https://github.com/user-attachments/assets/9681d0d4-9fb3-44b2-8629-1500b5f066ef" />
 
 MODの例については、「Example of a MOD」というフォルダを確認してください
-**API一覧**
+API一覧についてはAPIを確認ください
