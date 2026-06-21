@@ -1,13 +1,24 @@
-<!DOCTYPE html>
-<html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link rel="icon" href="/favicon.ico" sizes="32x32">
-<link rel="icon" href="/ICON.svg" type="image/svg+xml" sizes="any">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
 
-    <title>Okubo Craft - Ultimate Perfect Fix Edition</title>
+  <!-- SVG を優先（ベクター） -->
+  <link rel="icon" href="/ICON.svg?v=2" type="image/svg+xml" sizes="any">
+
+  <!-- 古いブラウザ用フォールバック -->
+  <link rel="icon" href="/favicon.ico?v=2" sizes="32x32">
+
+  <!-- iOS ホーム画面用（PNG） -->
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2">
+
+  <!-- Safari pinned tab（単色アイコン用） -->
+  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=2" color="#ffcc00">
+
+  <!-- Web App Manifest（必要なら） -->
+  <link rel="manifest" href="/site.webmanifest">
+
+  <title>Okubo Craft - Ultimate Perfect Fix Edition</title>
+
     <style>
         body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: #87CEEB; font-family: 'Helvetica Neue', Arial, sans-serif; user-select: none; }
         canvas { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; }
