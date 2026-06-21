@@ -1,6 +1,6 @@
 このゲームは楽しいゲームです
 
-あなた達も、もっとを作って遊びましょう。
+あなた達も、MODを作って遊びましょう。
 
 写真
 <img width="1279" height="719" alt="image" src="https://github.com/user-attachments/assets/1ba8b640-be17-4abf-9502-deaa13aa0824" />
